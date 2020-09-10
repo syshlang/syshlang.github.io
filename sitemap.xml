@@ -746,13 +746,6 @@
   </url>
   
   <url>
-    <loc>https://www.syshlang.com/tags/Quartz/</loc>
-    <lastmod>2020-09-10</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.syshlang.com/tags/SpringData/</loc>
     <lastmod>2020-09-10</lastmod>
     <changefreq>daily</changefreq>
@@ -761,6 +754,13 @@
   
   <url>
     <loc>https://www.syshlang.com/tags/Repository/</loc>
+    <lastmod>2020-09-10</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.syshlang.com/tags/Quartz/</loc>
     <lastmod>2020-09-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -888,14 +888,14 @@
   </url>
   
   <url>
-    <loc>https://www.syshlang.com/categories/technology/JAVA/SpringQuartz/</loc>
+    <loc>https://www.syshlang.com/categories/technology/JAVA/SpringData/</loc>
     <lastmod>2020-09-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://www.syshlang.com/categories/technology/JAVA/SpringData/</loc>
+    <loc>https://www.syshlang.com/categories/technology/JAVA/SpringQuartz/</loc>
     <lastmod>2020-09-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
