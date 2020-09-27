@@ -620,20 +620,6 @@
   </url>
   
   <url>
-    <loc>https://syshlang.com/tags/RFID/</loc>
-    <lastmod>2020-09-27</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://syshlang.com/tags/%E7%94%B5%E5%8A%A8%E8%BD%A6/</loc>
-    <lastmod>2020-09-27</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://syshlang.com/tags/Request/</loc>
     <lastmod>2020-09-27</lastmod>
     <changefreq>daily</changefreq>
@@ -794,6 +780,20 @@
     <priority>0.6</priority>
   </url>
   
+  <url>
+    <loc>https://syshlang.com/tags/RFID/</loc>
+    <lastmod>2020-09-27</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://syshlang.com/tags/%E7%94%B5%E5%8A%A8%E8%BD%A6/</loc>
+    <lastmod>2020-09-27</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
 
   
   <url>
@@ -840,13 +840,6 @@
   
   <url>
     <loc>https://syshlang.com/categories/javascript/</loc>
-    <lastmod>2020-09-27</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://syshlang.com/categories/technology/RFID/</loc>
     <lastmod>2020-09-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -937,6 +930,13 @@
   </url>
   
   <url>
+    <loc>https://syshlang.com/categories/database/oracle/</loc>
+    <lastmod>2020-09-27</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://syshlang.com/categories/database/mysql/</loc>
     <lastmod>2020-09-27</lastmod>
     <changefreq>daily</changefreq>
@@ -944,7 +944,7 @@
   </url>
   
   <url>
-    <loc>https://syshlang.com/categories/database/oracle/</loc>
+    <loc>https://syshlang.com/categories/technology/RFID/</loc>
     <lastmod>2020-09-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
